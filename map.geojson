@@ -4,8 +4,8 @@
     "chapter":"Chapter 1: The Folio",
     "zoom":1,
     "image":"img/pictorial-st-louis.png",
-    "source-credit":"Source: Library of Congres",
-    "source-link":"https://lccn.loc.gov/rc01001392",
+    "source-credit":"",
+    "source-link":"",
     "description":"\"The Shahnama, written by Abul-Qasim Firdawsi around 1010 AD, is a book containing over 60000 verses of stories and epics that pertain to the history of Persia. Although there are no surviving manuscripts from Firdawsi’s time, there are some from around the 13th to 15th centuries. Each grandson of Timur had a copy of the Shahnama made for them. One grandson, Ibrahim Sultan, has his own copy and is the patron of this copy of the Shahnama. For Ibrahim Sutlan’s copy, there is a preface that documents his story and his life before the start of the original Shahnama writings. Folio 4r falls within this preface and therefore has no relation to any of the Shahnama stories, but only on Sultan’s life experiences (Watson,2018).\" (Hebert & Dempsey)"},
     "geometry":{"type":"Point","coordinates":[2233,3541]}},
   {"type":"Feature","properties":
@@ -53,6 +53,24 @@
     "source-link":"https://lccn.loc.gov/rc01001392",
     "description":"\"In dividing the work into pages, it will be seen that in, cases where a building is but partially drawn on one page, it is given complete on the adjoining page. In view of the magnitude of the work, the originality of the idea, and the difficulties encountered in carrying it out, it is hoped that if any mistakes or errors have crept into the plates or pages, they will be looked upon with a lenient eye by an indulgent public.\" (Dry & Compton)"},
     "geometry":{"type":"Point","coordinates":[3945,2920]}},
+  {"type":"Feature","properties":
+    {"id":7,
+    "chapter":"Chapter 9: How to site this",
+    "zoom":1,
+    "image":"img/pictorial-st-louis-cemetery.png",
+    "source-credit":"Source: Library of Congress",
+    "source-link":"https://lccn.loc.gov/2012586260",
+    "description":"\"Al Rubaii, Ahmed (Researcher, Scriptwriter, Image Editor, Coder). “Sultan Ibrahim holding court (frontispiece)”. In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, Edited by Ahmed Al Rubaii, November 3, 2022.\""},
+    "geometry":{"type":"Point","coordinates":[0,0]}},
+  {"type":"Feature","properties":
+    {"id":8,
+    "chapter":"Chapter 9: How to site this",
+    "zoom":1,
+    "image":"img/pictorial-st-louis-cemetery.png",
+    "source-credit":"Source: Library of Congress",
+    "source-link":"https://lccn.loc.gov/2012586260",
+    "description":"\"Al Rubaii, Ahmed (Researcher, Scriptwriter, Image Editor, Coder). “Sultan Ibrahim holding court (frontispiece)”. In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, Edited by Ahmed Al Rubaii, November 3, 2022.\""},
+    "geometry":{"type":"Point","coordinates":[0,0]}}
   {"type":"Feature","properties":
     {"id":9,
     "chapter":"Chapter 9: How to site this",
