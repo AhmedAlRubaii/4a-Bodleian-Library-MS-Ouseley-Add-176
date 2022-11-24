@@ -2,7 +2,7 @@
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Chapter 1: Introduction",
-    "zoom":2,
+    "zoom":1,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -29,7 +29,7 @@
   {"type":"Feature","properties":
     {"id":4,
     "chapter":"Chapter 4: The preface of Ibrahim Sultan’s Shahnama",
-    "zoom":2,
+    "zoom":1,
     "image":"img/double-folio.png",
     "source-credit":"Double folio of 4a and its accompanying folio",
     "source-link":"https://cudl.lib.cam.ac.uk/view/MS-BODLEIAN-OUSELEY-ADD-00176/5",
