@@ -70,7 +70,7 @@
     "source-credit":"Source: Library of Congress",
     "source-link":"https://lccn.loc.gov/2012586260",
     "description":"\"Al Rubaii, Ahmed (Researcher, Scriptwriter, Image Editor, Coder). “Sultan Ibrahim holding court (frontispiece)”. In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, Edited by Ahmed Al Rubaii, November 3, 2022.\""},
-    "geometry":{"type":"Point","coordinates":[0,0]}}
+    "geometry":{"type":"Point","coordinates":[0,0]}},
   {"type":"Feature","properties":
     {"id":9,
     "chapter":"Chapter 9: How to site this",
