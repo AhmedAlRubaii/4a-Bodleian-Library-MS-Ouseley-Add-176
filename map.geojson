@@ -2,7 +2,7 @@
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Chapter 1: Introduction",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -11,12 +11,12 @@
   {"type":"Feature","properties":
     {"id":2,
     "chapter":"Chapter 2: What is the Shahnama?",
-    "zoom":1,
+    "zoom":2,
     "image":"",
     "source-credit":"",
     "source-link":"",
     "description":"The Shahnama, translated as \"Book of Kings\", is a collection of stories and retellings of pre-Islamic Persian stories of glory and kingship, with strong ties to the Zoroastrian belief and with the supernatural. It was written by Abul-Qasim Firdawsi around 1010 AD, is a book containing over 60000 verses of stories and epics that pertain to the history of Persia. Although there are no surviving manuscripts from Firdawsi’s time, there are some from around the 13th to 15th centuries (Watson,2018)."},
-    "geometry":{"type":"Point","coordinates":[0,0]}},
+    "geometry":{"type":"Point","coordinates":[2409,3715]}},
   {"type":"Feature","properties":
     {"id":3,
     "chapter":"Chapter 3: Patronage (who is Ibrahim Sultan?)",
@@ -29,7 +29,7 @@
   {"type":"Feature","properties":
     {"id":4,
     "chapter":"Chapter 4: The preface of Ibrahim Sultan’s Shahnama",
-    "zoom":1,
+    "zoom":2,
     "image":"img/double-folio.png",
     "source-credit":"Double folio of 4a and its accompanying folio",
     "source-link":"https://cudl.lib.cam.ac.uk/view/MS-BODLEIAN-OUSELEY-ADD-00176/5",
@@ -38,7 +38,7 @@
   {"type":"Feature","properties":
     {"id":5,
     "chapter":"Chapter 5: Analysis of the image",
-    "zoom":4,
+    "zoom":3,
     "image":"",
     "source-credit":"",
     "source-link":"",
@@ -61,7 +61,7 @@
     "source-credit":"",
     "source-link":"",
     "description":"Abdullaeva, F. I., and C. P. Melville. Essay. In The Persian Book of Kings: Ibrahim Sultan's Shahnama, 38–49. Oxford, England: Bodleian Library, 2008. \n\nEleanor Sims. \"The Illustrated Manuscripts of Firdausī’s ‘Shāhnāma’ Commissioned by Princes of the House of Tīmūr.\" Ars Orientalis 22 (1992): 43–68. http://www.jstor.org/stable/4629424. \n\nFar, Mahnaz Shayesteh. \"The Impact of the Religion on the Painting and Inscriptions of the Tîmûrid and the Early Safavid Periods.\" Central Asiatic Journal 47, no. 2 (2003): 250–93. http://www.jstor.org/stable/41917649. \n\nULUÇ, LÂLE. \"AN ISKANDARNĀMA OF NIZAMI PRODUCED FOR IBRAHIM SULTAN.\" Muqarnas 30 (2013): 235–53. http://www.jstor.org/stable/42751922. \n\nWatson, Alasdair. \"The Shāhnāmah of Ibrāhīm Sulṭān – Available Online from Digital.Bodleian.\" Archives and manuscripts at the bodleian library, March 5, 2018. https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/tag/sir-gore-ouseley/."},
-    "geometry":{"type":"Point","coordinates":[0,7163]}},
+    "geometry":{"type":"Point","coordinates":[4969,7163]}},
   {"type":"Feature","properties":
     {"id":8,
     "chapter":"Chapter 8: How to site this",
